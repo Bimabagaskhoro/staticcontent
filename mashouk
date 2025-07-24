@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "isAccepted": true,
+      "isAccepted": false,
       "name": "t-b"
     },
     {
@@ -13,7 +13,7 @@
       "name": "t-2"
     },
     {
-      "isAccepted": true,
+      "isAccepted": false,
       "name": "t-3"
     }
   ]
