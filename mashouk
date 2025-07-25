@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "isAccepted": false,
+      "isAccepted": true,
       "name": "t-b"
     },
     {
-      "isAccepted": true,
+      "isAccepted": false,
       "name": "t-1"
     },
     {
