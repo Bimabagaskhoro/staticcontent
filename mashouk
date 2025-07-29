@@ -1,19 +1,19 @@
 {
   "data": [
     {
-      "isAccepted": true,
+      "isAccepted": false,
       "name": "t-b"
     },
     {
-      "isAccepted": false,
+      "isAccepted": true,
       "name": "t-1"
     },
     {
-      "isAccepted": false,
+      "isAccepted": true,
       "name": "t-2"
     },
     {
-      "isAccepted": false,
+      "isAccepted": true,
       "name": "t-3"
     },
     {
