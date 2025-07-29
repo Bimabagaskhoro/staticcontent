@@ -6,6 +6,7 @@
     "taskruy",
     "jordansky",
     "versaceeros",
-    "lmsys/vicuna-7b-v1.3"
+    "lmsys/vicuna-7b-v1.3",
+    "beomi/polyglot-ko-12.8b-safetensors"
   ]
 }
