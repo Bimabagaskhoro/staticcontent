@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "isAccepted": false,
+      "name": "t-b",
+      "acctask" : [
+        "versaceeros/0cb14ca6-dfd3-4a38-af80-45bd8619390d",
+        "unsloth/Qwen2.5-Coder-7B-Instruct"
+      ]
+    },
+    {
+      "isAccepted": true,
+      "name": "t-1",
+      "acctask" : [
+        "",""
+      ]
+    },
+    {
+      "isAccepted": true,
+      "name": "t-2",
+      "acctask" : [
+        "",""
+      ]
+    },
+    {
+      "isAccepted": true,
+      "name": "t-3",
+      "acctask" : [
+        "",""
+      ]
+    },
+    {
+      "isAccepted": true,
+      "name": "t-w",
+      "acctask" : [
+        "",""
+      ]
+    }
+  ]
+}
