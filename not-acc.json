@@ -9,6 +9,7 @@
     "lmsys/vicuna-7b-v1.3",
     "beomi/polyglot-ko-12.8b-safetensors",
     "unsloth/Qwen2.5-Math-1.5B",
-    "dunzhang/stella_en_1.5B_v5"
+    "dunzhang/stella_en_1.5B_v5",
+    "openai/gpt-oss-20b"
   ]
 }
