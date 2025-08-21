@@ -3,7 +3,7 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
         "samoline/96440eea-ac5e-41cc-ae57-6c1843bb3539",
         "test"
