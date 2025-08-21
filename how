@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "uwaw-123",
-      "isAccepted": false,
+      "isAccepted": true,
       "acc_task" : [
         "name-off-model",
         "name-off-model"
