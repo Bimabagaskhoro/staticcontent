@@ -19,7 +19,7 @@
     {
       "id": "miner3",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
         ""
       ]
