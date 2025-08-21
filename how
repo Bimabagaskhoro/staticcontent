@@ -1,11 +1,19 @@
 {
   "data": [
     {
-      "id": "uwaw-123",
+      "id": "miner1",
       "isAccepted": true,
       "acc_task" : [
-        "name-off-model",
-        "name-off-model"
+        "",
+        ""
+      ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": true,
+      "acc_task" : [
+        "",
+        ""
       ]
     }
   ]
