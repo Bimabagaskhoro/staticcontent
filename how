@@ -11,9 +11,9 @@
     {
       "id": "miner2",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
-        ""
+        "Qwen/Qwen1.5-14B-Chat"
       ]
     },
     {
