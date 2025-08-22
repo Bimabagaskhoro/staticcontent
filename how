@@ -18,7 +18,7 @@
     },
     {
       "id": "miner3",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "unsloth/Meta-Llama-3.1-8B-Instruct"
