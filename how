@@ -3,9 +3,9 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
-        "NousResearch/Meta-Llama-3-8B-Alternate-Tokenizer"
+        ""
       ]
     },
     {
