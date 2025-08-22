@@ -23,6 +23,14 @@
       "acc_task" : [
         "unsloth/Meta-Llama-3.1-8B-Instruct"
       ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        ""
+      ]
     }
   ]
 }
