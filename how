@@ -5,13 +5,13 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        ""
+        "unsloth/mistral-7b-instruct-v0.2"
       ]
     },
     {
       "id": "miner2",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
         "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B"
       ]
