@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "microsoft/Phi-3-mini-4k-instruct"
@@ -11,7 +11,7 @@
     {
       "id": "miner2",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
         "unsloth/SmolLM2-1.7B",
         "NousResearch/Yarn-Solar-10b-32k"
