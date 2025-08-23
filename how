@@ -2,15 +2,15 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         "unsloth/mistral-7b-instruct-v0.2"
       ]
     },
     {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B"
@@ -18,16 +18,16 @@
     },
     {
       "id": "miner3",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         "unsloth/Meta-Llama-3.1-8B-Instruct"
       ]
     },
     {
       "id": "miner4",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         ""
       ]
