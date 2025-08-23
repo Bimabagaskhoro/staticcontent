@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": true,
       "acc_task" : [
-        "unsloth/mistral-7b-instruct-v0.2"
+        "Qwen/Qwen2.5-3B-Instruct"
       ]
     },
     {
