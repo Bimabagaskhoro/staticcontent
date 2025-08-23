@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen1.5-7B"
+        "microsoft/Phi-3-mini-4k-instruct"
       ]
     },
     {
