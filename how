@@ -3,17 +3,17 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
         "Qwen/Qwen2.5-3B-Instruct"
       ]
     },
     {
       "id": "miner2",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B"
+        "Qwen/Qwen1.5-7B"
       ]
     },
     {
