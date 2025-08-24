@@ -7,31 +7,6 @@
       "acc_task" : [
         "microsoft/Phi-3-mini-4k-instruct"
       ]
-    },
-    {
-      "id": "miner2",
-      "isAccepted": true,
-      "all": true,
-      "acc_task" : [
-        "unsloth/SmolLM2-1.7B",
-        "NousResearch/Yarn-Solar-10b-32k"
-      ]
-    },
-    {
-      "id": "miner3",
-      "isAccepted": true,
-      "all": true,
-      "acc_task" : [
-        "Qwen/Qwen1.5-7B"
-      ]
-    },
-    {
-      "id": "miner4",
-      "isAccepted": true,
-      "all": true,
-      "acc_task" : [
-        ""
-      ]
     }
   ]
 }
