@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
-      "all": false,
+      "isAccepted": true,
+      "all": true,
       "acc_task" : [
-        "microsoft/Phi-3-mini-4k-instruct"
+        ""
       ]
     }
   ]
