@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": true,
       "acc_task" : [
-        ""
+        "unsloth/zephyr-sft", 
+        "NousResearch/Hermes-2-Theta-Llama-3-8B"
       ]
     }
   ]
