@@ -2,8 +2,8 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         "unsloth/zephyr-sft", 
         "NousResearch/Hermes-2-Theta-Llama-3-8B"
