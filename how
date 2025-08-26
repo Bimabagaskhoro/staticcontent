@@ -2,8 +2,8 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         "", 
         ""
@@ -11,8 +11,8 @@
     },
     {
       "id": "miner2",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         "", 
         ""
