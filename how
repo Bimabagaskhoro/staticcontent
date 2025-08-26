@@ -8,6 +8,15 @@
         "", 
         ""
       ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": true,
+      "all": true,
+      "acc_task" : [
+        "", 
+        ""
+      ]
     }
   ]
 }
