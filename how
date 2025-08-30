@@ -3,10 +3,10 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama-1.1B-Chat-v1.0",
-        "unsloth/Qwen2.5-1.5B"
+        "",
+        ""
       ]
     },
     {
