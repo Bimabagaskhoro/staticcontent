@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": true,
       "acc_task" : [
-        "unsloth/SmolLM2-1.7B-Instruct"
+        "unsloth/SmolLM2-1.7B-Instruct",
+        "defog/sqlcoder-7b-2",
       ]
     },
     {
