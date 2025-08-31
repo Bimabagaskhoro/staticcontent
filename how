@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": true,
       "acc_task" : [
-        ""
+        "unsloth/SmolLM2-1.7B-Instruct"
       ]
     },
     {
