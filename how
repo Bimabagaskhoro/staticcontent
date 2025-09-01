@@ -13,8 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-1.5B", 
-        ""
+        "unsloth/Qwen2-1.5B"
       ]
     }
   ]
