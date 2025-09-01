@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "unsloth/Phi-3.5-mini-instruct"
@@ -10,10 +10,26 @@
     },
     {
       "id": "miner2",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-1.5B","Qwen/Qwen2.5-1.5B-Instruct","unsloth/gemma-2-2b"
+        ""
+      ]
+    },
+    {
+      "id": "miner3",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        ""
+      ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        ""
       ]
     }
   ]
