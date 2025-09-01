@@ -13,15 +13,15 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "DeepMount00/Llama-3-8b-Ita"
+        "unsloth/Qwen2-0.5B-Instruct"
       ]
     },
     {
       "id": "miner3",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        ""
+        "DeepMount00/Llama-3-8b-Ita"
       ]
     },
     {
