@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-0.5B-Instruct"
+        "unsloth/Qwen2-0.5B-Instruct", "OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5"
       ]
     },
     {
