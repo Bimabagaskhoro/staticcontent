@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": true,
       "acc_task" : [
-        "Qwen/Qwen2-1.5B-Instruct","eci-io/climategpt-70b"
+        "Steelskull/L3.3-MS-Nevoria-70b"
       ]
     },
     {
