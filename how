@@ -11,7 +11,7 @@
     {
       "id": "miner2",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
         "EleutherAI/pythia-1b"
       ]
