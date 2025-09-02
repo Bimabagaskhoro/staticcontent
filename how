@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         "unsloth/SmolLM-1.7B","NousResearch/Yarn-Llama-2-7b-64k" 
