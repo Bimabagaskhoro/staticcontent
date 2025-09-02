@@ -3,7 +3,7 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
         "Qwen/Qwen2-1.5B-Instruct","eci-io/climategpt-70b"
       ]
