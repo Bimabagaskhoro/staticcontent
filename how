@@ -11,22 +11,6 @@
     {
       "id": "miner2",
       "isAccepted": true,
-      "all": true,
-      "acc_task" : [
-        "EleutherAI/pythia-1b"
-      ]
-    },
-    {
-      "id": "miner3",
-      "isAccepted": false,
-      "all": false,
-      "acc_task" : [
-        "DeepMount00/Llama-3-8b-Ita","OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5"
-      ]
-    },
-    {
-      "id": "miner4",
-      "isAccepted": false,
       "all": false,
       "acc_task" : [
         ""
