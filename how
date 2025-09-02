@@ -10,7 +10,7 @@
     },
     {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "Qwen/Qwen2-7B-Instruct"
