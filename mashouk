@@ -1,24 +1,3 @@
 {
-  "data": [
-    {
-      "isAccepted": false,
-      "name": "t1"
-    },
-    {
-      "isAccepted": false,
-      "name": "t-1"
-    },
-    {
-      "isAccepted": true,
-      "name": "t-2"
-    },
-    {
-      "isAccepted": false,
-      "name": "t-3"
-    },
-    {
-      "isAccepted": false,
-      "name": "t-w"
-    }
-  ]
+  isBypass: true
 }
