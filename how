@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "heegyu/WizardVicuna-open-llama-3b-v2"
+        "unsloth/SmolLM2-360M-Instruct"
       ]
     }
   ]
