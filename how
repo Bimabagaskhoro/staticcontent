@@ -25,11 +25,11 @@
       ]
     },
     {
-      "id": "miner4",
+      "id": "miner5",
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "facebook/opt-350m"
+        "unsloth/Qwen2.5-Math-1.5B"
       ]
     }
   ]
