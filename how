@@ -3,9 +3,9 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
-        ""
+        "nsloth/SmolLM2-1.7B-Instruct"
       ]
     },
     {
