@@ -5,7 +5,7 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "HuggingFaceH4/zephyr-7b-beta","unsloth/OpenHermes-2.5-Mistral-7B"
+        ""
       ]
     },
     {
@@ -13,7 +13,23 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2-7B-Instruct"
+        ""
+      ]
+    },
+    {
+      "id": "miner3",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        ""
+      ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        ""
       ]
     }
   ]
