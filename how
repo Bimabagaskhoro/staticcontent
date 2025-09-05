@@ -15,7 +15,7 @@
       "acc_task" : [
         "unsloth/codellama-7b"
       ]
-    }
+    },
     {
       "id": "miner5",
       "isAccepted": true,
