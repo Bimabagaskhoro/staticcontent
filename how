@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "nsloth/SmolLM2-1.7B-Instruct"
+        ""
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "ifmain/UltraReal_Fine-Tune","Lykon/dreamshaper-xl-1-0"
+        "unsloth/SmolLM2-1.7B-Instruct"
       ]
     },
     {
