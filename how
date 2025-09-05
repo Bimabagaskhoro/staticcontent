@@ -9,6 +9,14 @@
       ]
     },
     {
+      "id": "miner2",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "heegyu/WizardVicuna-open-llama-3b-v2"
+      ]
+    }
+    {
       "id": "miner5",
       "isAccepted": true,
       "all": false,
