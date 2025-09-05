@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "SG161222/RealVisXL_V4.0","Lykon/dreamshaper-xl-1-0"
+        "Lykon/art-diffusion-xl-0.9"
       ]
     },
     {
