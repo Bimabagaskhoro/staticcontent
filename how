@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "stabilityai/stable-diffusion-xl-base-1.0"
+        "ifmain/UltraReal_Fine-Tune"
       ]
     },
     {
