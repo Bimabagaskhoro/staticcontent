@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         ""
@@ -10,7 +10,7 @@
     },
     {
       "id": "miner2",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         ""
@@ -18,7 +18,7 @@
     },
     {
       "id": "miner3",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         ""
@@ -26,7 +26,7 @@
     },
     {
       "id": "miner4",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         ""
