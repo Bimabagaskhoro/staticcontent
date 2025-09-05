@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "ifmain/UltraReal_Fine-Tune"
+        "ifmain/UltraReal_Fine-Tune","Lykon/dreamshaper-xl-1-0"
       ]
     },
     {
@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "SG161222/RealVisXL_V4.0"
+        "SG161222/RealVisXL_V4.0","Lykon/dreamshaper-xl-1-0"
       ]
     },
     {
