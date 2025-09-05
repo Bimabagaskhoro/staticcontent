@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Lykon/art-diffusion-xl-0.9"
+        "bigscience/bloomz-560m"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "rayonlabs/FLUX.1-dev"
+        "facebook/opt-350m"
       ]
     }
   ]
