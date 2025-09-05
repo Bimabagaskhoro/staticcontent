@@ -10,7 +10,7 @@
     },
     {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "bigscience/bloomz-560m"
