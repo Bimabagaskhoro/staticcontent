@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "EleutherAI/pythia-1b"
+        "","unsloth/mistral-7b-v0.3"
       ]
     },
     {
