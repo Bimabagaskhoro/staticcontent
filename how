@@ -2,16 +2,16 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         "unsloth/llama-2-7b",
-        "Qwen/Qwen2.5-3B",
+        "databricks/dolly-v2-3b",
       ]
     },
     {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "unsloth/Qwen2-0.5B-Instruct",
