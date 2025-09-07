@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "stablediffusionapi/protovision-xl-v6.6",
+        "Qwen/Qwen2.5-3B",
       ]
     },
     {
