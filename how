@@ -5,6 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
+        "unsloth/llama-2-7b",
         "Qwen/Qwen2.5-3B",
       ]
     },
