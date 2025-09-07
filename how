@@ -17,7 +17,8 @@
         "Qwen/Qwen2.5-3B",
         "unsloth/Qwen2.5-1.5B-Instruct",
         "unsloth/mistral-7b-v0.3",
-        "NousResearch/CodeLlama-7b-hf-flash"
+        "NousResearch/CodeLlama-7b-hf-flash",
+        "unsloth/Qwen2.5-Coder-7B-Instruct"
       ]
     }
   ]
