@@ -7,7 +7,6 @@
       "acc_task" : [
         "Qwen/Qwen3-32B",
         "NousResearch/Yarn-Llama-2-7b-128k",
-        "TinyLlama/TinyLlama_v1.1",
         "unsloth/Mistral-Nemo-Base-2407",
         "lmsys/vicuna-7b-v1.5"
       ]
