@@ -13,7 +13,10 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/CodeLlama-7b-hf-flash","unsloth/mistral-7b-v0.3","unsloth/llama-2-7b"
+        "unsloth/Qwen2-0.5B-Instruct",
+        "NousResearch/CodeLlama-7b-hf-flash",
+        "unsloth/mistral-7b-v0.3",
+        "unsloth/llama-2-7b"
       ]
     },
     {
