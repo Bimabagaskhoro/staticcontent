@@ -19,14 +19,6 @@
         "unsloth/mistral-7b-v0.3",
         "unsloth/llama-2-7b"
       ]
-    },
-    {
-      "id": "miner5",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "mhnakif/fluxunchained-dev"
-      ]
     }
   ]
 }
