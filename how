@@ -5,7 +5,7 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-360M-Instruct"
+        "stablediffusionapi/protovision-xl-v6.6",
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/codellama-7b"
+        "EleutherAI/pythia-1b"
       ]
     },
     {
