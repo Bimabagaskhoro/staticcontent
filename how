@@ -14,10 +14,8 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-0.5B-Instruct",
-        "NousResearch/CodeLlama-7b-hf-flash",
-        "unsloth/mistral-7b-v0.3",
-        "unsloth/llama-2-7b"
+        "zenless-lab/sdxl-aam-xl-anime-mix",
+        "unsloth/Qwen2.5-1.5B-Instruct"
       ]
     }
   ]
