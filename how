@@ -7,14 +7,6 @@
       "acc_task" : [
         "Qwen/Qwen2.5-0.5B"
       ]
-    },
-    {
-      "id": "miner2",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "Qwen/Qwen2.5-0.5B"
-      ]
     }
   ]
 }
