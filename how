@@ -5,11 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen3-32B",
-        "NousResearch/Yarn-Llama-2-7b-128k",
-        "unsloth/Mistral-Nemo-Base-2407",
-        "TinyLlama/TinyLlama_v1.1",
-        "lmsys/vicuna-7b-v1.5"
+        "Qwen/Qwen2.5-0.5B"
       ]
     },
     {
@@ -17,11 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen2.5-3B",
-        "unsloth/Qwen2.5-1.5B-Instruct",
-        "unsloth/mistral-7b-v0.3",
-        "NousResearch/CodeLlama-7b-hf-flash",
-        "unsloth/Qwen2.5-Coder-7B-Instruct"
+        "Qwen/Qwen2.5-0.5B"
       ]
     }
   ]
