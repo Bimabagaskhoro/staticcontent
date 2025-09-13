@@ -1,11 +1,9 @@
 {
-  "data": [
+  "data" :[
     {
-      "id": "",
-      "isAccepted": false,
-      "acc_task" : [
-        "name-off-model",
-        "name-off-model"
+      "miner_id": "miner1",
+      "not_acc_task" : [
+        "defog/sqlcoder-7b-2"
       ]
     }
   ]
