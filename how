@@ -3,7 +3,7 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": false,
+      "all": true,
       "acc_task" : [
         "Qwen/Qwen3-8B-Base","unsloth/Llama-3.1-Storm-8B"
       ]
