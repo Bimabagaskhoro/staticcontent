@@ -2,8 +2,8 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
-      "all": true,
+      "isAccepted": false,
+      "all": false,
       "acc_task" : [
         "Qwen/Qwen3-8B-Base","unsloth/Llama-3.1-Storm-8B"
       ]
