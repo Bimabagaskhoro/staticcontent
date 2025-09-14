@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Phi-3-mini-4k-instruct","Qwen/Qwen2.5-1.5B"
+        "unsloth/Phi-3-mini-4k-instruct",
+        "Qwen/Qwen2.5-1.5B"
       ]
     },
     {
@@ -13,7 +14,9 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Phi-3-mini-4k-instruct","Qwen/Qwen2.5-1.5B","NousResearch/Hermes-2-Theta-Llama-3-8B"
+        "unsloth/Phi-3-mini-4k-instruct",
+        "Qwen/Qwen2.5-1.5B",
+        "NousResearch/Hermes-2-Theta-Llama-3-8B"
       ]
     }
   ]
