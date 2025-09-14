@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "teknium/OpenHermes-2.5-Mistral-7B","Qwen/Qwen2.5-1.5B"
+        "teknium/OpenHermes-2.5-Mistral-7B",""
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-2-Theta-Llama-3-8B"
+        "Qwen/Qwen2.5-1.5B"
       ]
     }
   ]
