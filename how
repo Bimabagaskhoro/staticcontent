@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-7B","jingyeom/seal3.1.6n_7b","Qwen/Qwen2.5-7B"
+        "unsloth/Qwen2-7B","","Qwen/Qwen2.5-7B"
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Vikhrmodels/Vikhr-7B-instruct_0.4"
+        "jingyeom/seal3.1.6n_7b"
       ]
     }
   ]
