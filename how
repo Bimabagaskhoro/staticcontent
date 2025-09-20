@@ -23,6 +23,14 @@
       "acc_task" : [
         "Qwen/Qwen2.5-7B"
       ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "microsoft/Phi-3.5-mini-instruct"
+      ]
     }
   ]
 }
