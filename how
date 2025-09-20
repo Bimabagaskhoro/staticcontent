@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "stablediffusionapi/omnium-sdxl"
+        "unsloth/Qwen2-7B","jingyeom/seal3.1.6n_7b"
       ]
     },
     {
