@@ -26,7 +26,7 @@
     },
     {
       "id": "miner4",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "microsoft/Phi-3.5-mini-instruct"
