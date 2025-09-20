@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2-7B","jingyeom/seal3.1.6n_7b"
+        "unsloth/Qwen2-7B","jingyeom/seal3.1.6n_7b","Qwen/Qwen2.5-7B"
       ]
     },
     {
