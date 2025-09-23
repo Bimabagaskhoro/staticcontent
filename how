@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0"
+        ""
       ]
     },
     {
@@ -29,7 +29,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-2-2b-it"
+        ""
       ]
     }
   ]
