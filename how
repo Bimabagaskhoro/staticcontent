@@ -5,31 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-Math-1.5B"
-      ]
-    },
-    {
-      "id": "miner2",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "microsoft/Phi-3.5-mini-instruct"
-      ]
-    },
-    {
-      "id": "miner3",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "Qwen/Qwen2.5-7B"
-      ]
-    },
-    {
-      "id": "miner4",
-      "isAccepted": false,
-      "all": false,
-      "acc_task" : [
-        "microsoft/Phi-3.5-mini-instruct"
+        "lcw99/zephykor-ko-7b-chang"
       ]
     }
   ]
