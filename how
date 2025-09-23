@@ -7,6 +7,30 @@
       "acc_task" : [
         "unsloth/Qwen2.5-Coder-1.5B-Instruct"
       ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        ""
+      ]
+    },
+    {
+      "id": "miner3",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        ""
+      ]
+    },
+    {
+      "id": "miner4",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        ""
+      ]
     }
   ]
 }
