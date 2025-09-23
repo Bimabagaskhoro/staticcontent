@@ -21,7 +21,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-14B-Instruct"
+        "recoilme/colorfulxl"
       ]
     },
     {
@@ -29,7 +29,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        ""
+        "recoilme/colorfulxl"
       ]
     }
   ]
