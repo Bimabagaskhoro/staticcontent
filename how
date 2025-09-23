@@ -29,7 +29,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "recoilme/colorfulxl"
+        "unsloth/gemma-2-2b-it"
       ]
     }
   ]
