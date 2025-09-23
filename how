@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "TinyLlama/TinyLlama-1.1B-Chat-v0.6"
+        "KBlueLeaf/Kohaku-XL-Zeta"
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-1.1-2b-it"
+        "KBlueLeaf/Kohaku-XL-Zeta"
       ]
     },
     {
