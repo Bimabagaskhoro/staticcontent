@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "lcw99/zephykor-ko-7b-chang"
+        "unsloth/Qwen2.5-Coder-1.5B-Instruct"
       ]
     }
   ]
