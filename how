@@ -6,7 +6,8 @@
       "all": false,
       "acc_task" : [
         "lcw99/zephykor-ko-7b-chang",
-        "codellama/CodeLlama-7b-hf"
+        "codellama/CodeLlama-7b-hf",
+        "unsloth/gemma-2-9b"
       ]
     },
     {
