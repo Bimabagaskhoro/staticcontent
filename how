@@ -15,22 +15,6 @@
       "acc_task" : [
         "unsloth/gemma-2-2b"
       ]
-    },
-    {
-      "id": "miner3",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "Qwen/Qwen2.5-7B-Instruct"
-      ]
-    },
-    {
-      "id": "miner4",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        ""
-      ]
     }
   ]
 }
