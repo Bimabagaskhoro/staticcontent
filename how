@@ -5,23 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Yarn-Llama-2-7b-128k"
-      ]
-    },
-    {
-      "id": "miner2",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "NousResearch/Yarn-Llama-2-7b-128k"
-      ]
-    },
-    {
-      "id": "miner3",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "NousResearch/Nous-Hermes-2-Mistral-7B-DPO"
+        "NousResearch/Yarn-Llama-2-7b-128k",""
       ]
     }
   ]
