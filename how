@@ -5,9 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "lcw99/zephykor-ko-7b-chang",
-        "codellama/CodeLlama-7b-hf",
-        "unsloth/Qwen2.5-0.5B"
+        "unsloth/SmolLM2-1.7B"
       ]
     },
     {
