@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "tiiuae/falcon-rw-1b"
+        "Qwen/Qwen3-1.7B-Base"
       ]
     }
   ]
