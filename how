@@ -7,6 +7,14 @@
       "acc_task" : [
         "Qwen/Qwen3-1.7B-Base"
       ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": true,
+      "all": false,
+      "acc_task" : [
+        "unsloth/Qwen2.5-Math-1.5B-Instruct"
+      ]
     }
   ]
 }
