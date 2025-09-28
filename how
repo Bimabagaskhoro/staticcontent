@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Qwen/Qwen3-1.7B-Base"
+        "unsloth/llama-3-8b-Instruct"
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-Math-1.5B-Instruct"
+        "unsloth/Meta-Llama-3.1-8B"
       ]
     }
   ]
