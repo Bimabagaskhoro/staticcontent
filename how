@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/llama-3-8b-Instruct"
+        "dunzhang/stella_en_1.5B_v5"
       ]
     },
     {
