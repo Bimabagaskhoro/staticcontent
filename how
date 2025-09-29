@@ -5,15 +5,11 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Yarn-Llama-2-7b-128k","unsloth/llama-3-8b","NousResearch/Yarn-Llama-2-13b-128k"
-      ]
-    },
-    {
-      "id": "miner2",
-      "isAccepted": true,
-      "all": false,
-      "acc_task" : [
-        "dunzhang/stella_en_1.5B_v5"
+        "NousResearch/Yarn-Llama-2-7b-128k",
+        "unsloth/llama-3-8b",
+        "NousResearch/Yarn-Llama-2-13b-128k",
+        "NousResearch/Nous-Capybara-7B-V1.9",
+        "unsloth/Qwen2.5-Coder-7B-Instruct"
       ]
     }
   ]
