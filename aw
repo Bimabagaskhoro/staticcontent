@@ -12,6 +12,6 @@
   {
     "task_id": "task123",
     "hub_model_id": "model456",
-    "model_hash": "hash789"
+    "model_hash": "ahash789"
   }
 ]
