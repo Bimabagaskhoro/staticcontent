@@ -5,11 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Yarn-Llama-2-7b-128k",
-        "unsloth/llama-3-8b",
-        "NousResearch/Yarn-Llama-2-13b-128k",
-        "NousResearch/Nous-Capybara-7B-V1.9",
-        "unsloth/Qwen2.5-Coder-7B-Instruct"
+        "WhiteRabbitNeo/Llama-3-WhiteRabbitNeo-8B-v2.0"
       ]
     }
   ]
