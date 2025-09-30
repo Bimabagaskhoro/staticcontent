@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "codellama/CodeLlama-7b-Instruct-hf"
+        "codellama/CodeLlama-7b-Instruct-hf",
+        "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B"
       ]
     }
   ]
