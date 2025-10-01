@@ -11,7 +11,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM-135M"
+        "unsloth/SmolLM-135M","princeton-nlp/gemma-2-9b-it-SimPO"
       ]
     }
   ]
