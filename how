@@ -11,7 +11,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/gemma-2-2b-it"
+        "Qwen/Qwen2-1.5B-Instruct"
       ]
     }
   ]
