@@ -4,17 +4,14 @@
       "id": "miner1",
       "isAccepted": true,
       "all": false,
-      "acc_task" : [
-        "unsloth/SmolLM-135M-Instruct","unsloth/Qwen2-7B"
-      ]
+      "acc_task" : []
     },
     {
       "id": "miner2",
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Casual-Autopsy/L3-Umbral-Mind-RP-v3.0-8B",
-        "dataautogpt3/ProteusV0.5"
+        "unsloth/SmolLM-135M-Instruct","unsloth/Qwen2-7B"
       ]
     }
   ]
