@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Meta-Llama-3-8B"
+        "unsloth/Qwen2.5-Coder-1.5B-Instruct"
       ]
     }
   ]
