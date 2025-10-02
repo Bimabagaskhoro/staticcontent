@@ -4,14 +4,8 @@
       "id": "miner1",
       "isAccepted": true,
       "all": false,
-      "acc_task" : []
-    },
-    {
-      "id": "miner2",
-      "isAccepted": true,
-      "all": false,
       "acc_task" : [
-        "Qwen/Qwen2-1.5B-Instruct"
+        "NousResearch/Meta-Llama-3-8B"
       ]
     }
   ]
