@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "furiosa-ai/mlperf-gpt-j-6b","rayonlabs/FLUX.1-dev","Qwen/Qwen2-0.5B-Instruct"
+        "furiosa-ai/mlperf-gpt-j-6b","rayonlabs/FLUX.1-dev","Qwen/Qwen2-0.5B-Instruct","unsloth/SmolLM-135M-Instruct"
       ]
     }
   ]
