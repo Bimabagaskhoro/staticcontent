@@ -5,8 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "microsoft/phi-1_5",
-        "unsloth/Qwen2.5-Math-1.5B"
+        "microsoft/Phi-3.5-mini-instruct
       ]
     }
   ]
