@@ -5,8 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/SmolLM2-135M",
-        "zake7749/gemma-2-2b-it-chinese-kyara-dpo"
+        "microsoft/phi-1_5",
+        "unsloth/Qwen2.5-Math-1.5B"
       ]
     }
   ]
