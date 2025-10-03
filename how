@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "furiosa-ai/mlperf-gpt-j-6b"
+        "furiosa-ai/mlperf-gpt-j-6b","rayonlabs/FLUX.1-dev"
       ]
     }
   ]
