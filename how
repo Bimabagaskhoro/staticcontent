@@ -5,7 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "openlm-research/open_llama_3b"
+        "openlm-research/open_llama_3b",
+        "MLP-KTLim/llama-3-Korean-Bllossom-8B"
       ]
     },
     {
