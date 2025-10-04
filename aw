@@ -18,5 +18,10 @@
     "task_id": "804836f9-657b-444f-b949-5cf99860ec0a-johndoe",
     "hub_model_id": "bimabk/7013237c-391d-451a-8fbf-254925f8bcfd",
     "model_hash": "50557882487ba06a623387ecdb0fb98322d0c9e7529baf33cb42940d70e7d66e"
+  },
+  {
+    "task_id": "609dc924-11e3-44cc-b002-55d63a60c954-komtung",
+    "hub_model_id": "bimabk/bc241597-c762-4ece-ac7b-267b6eac40ec",
+    "model_hash": "f1aeaa0423001e13cacff2cfee90beb5ef02eb2ae70ae2f49db4ebd1bd1092f2"
   }
 ]
