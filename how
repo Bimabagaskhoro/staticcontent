@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/zephyr-sft"
+        "NousResearch/Hermes-2-Pro-Llama-3-8B"
       ]
     }
   ]
