@@ -5,7 +5,15 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-2-Pro-Llama-3-8B"
+        "openlm-research/open_llama_3b"
+      ]
+    },
+    {
+      "id": "miner2",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        "openlm-research/open_llama_3b"
       ]
     }
   ]
