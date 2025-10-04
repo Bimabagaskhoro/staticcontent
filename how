@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-2-Pro-Llama-3-8B"
+        "unsloth/zephyr-sft"
       ]
     },
     {
@@ -13,7 +13,7 @@
       "isAccepted": false,
       "all": false,
       "acc_task" : [
-        "unsloth/zephyr-sft"
+        ""
       ]
     }
   ]
