@@ -1,8 +1,16 @@
 {
   "data": [
     {
+      "id": "miner1",
+      "isAccepted": false,
+      "all": false,
+      "acc_task" : [
+        "NousResearch/Hermes-2-Pro-Llama-3-8B"
+      ]
+    },
+    {
       "id": "miner2",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "NousResearch/Hermes-2-Pro-Llama-3-8B"
