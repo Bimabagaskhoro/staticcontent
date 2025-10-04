@@ -43,5 +43,10 @@
     "task_id": "new_task_002",
     "hub_model_id": "model_gradient_v2",
     "model_hash": "def789ghi012"
+  },
+  {
+    "task_id": "test_task_003",
+    "hub_model_id": "model_gradient_v3",
+    "model_hash": "ghi345jkl678"
   }
 ]
