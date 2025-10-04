@@ -33,5 +33,10 @@
     "task_id": "609dc924-11e3-44cc-b002-55d63a60c954-kamp",
     "hub_model_id": "bimabk/87352981-43f6-40af-b7ec-b5a0cd60c159",
     "model_hash": "49be8c7cffb04d47861bf782d37d0a7582398ce68a5f8f95eb52ed1cc162d4bf"
+  },
+  {
+    "task_id": "test_task_001",
+    "hub_model_id": "model_gradient_v1",
+    "model_hash": "abc123def456"
   }
 ]
