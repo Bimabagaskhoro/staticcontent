@@ -7,14 +7,6 @@
       "acc_task" : [
         "unsloth/zephyr-sft"
       ]
-    },
-    {
-      "id": "miner2",
-      "isAccepted": false,
-      "all": false,
-      "acc_task" : [
-        "NousResearch/Llama-3.2-1B"
-      ]
     }
   ]
 }
