@@ -15,7 +15,7 @@
     "model_hash": "01cf52ea1421fe7b26d5ddeebc7257b36f55c4500f28d625c7ba57ca19326434"
   },
   {
-    "task_id": "804836f9-657b-444f-b949-5cf99860ec0a-kamp",
+    "task_id": "804836f9-657b-444f-b949-5cf99860ec0a-johndoe",
     "hub_model_id": "bimabk/7013237c-391d-451a-8fbf-254925f8bcfd",
     "model_hash": "50557882487ba06a623387ecdb0fb98322d0c9e7529baf33cb42940d70e7d66e"
   }
