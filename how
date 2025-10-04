@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "miner1",
+      "id": "miner2",
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        ""
+        "NousResearch/Hermes-2-Pro-Llama-3-8B"
       ]
     }
   ]
