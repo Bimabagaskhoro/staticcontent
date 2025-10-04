@@ -28,5 +28,10 @@
     "task_id": "609dc924-11e3-44cc-b002-55d63a60c954-kemrutan",
     "hub_model_id": "bimabk/469121ba-74dc-4fb4-8396-40cdbcb394c8",
     "model_hash": "2ed0de2d8fb316dd6d6210a158ab732852e5d868d3c48259ea84796ad923164c"
+  },
+  {
+    "task_id": "609dc924-11e3-44cc-b002-55d63a60c954-kamp",
+    "hub_model_id": "bimabk/87352981-43f6-40af-b7ec-b5a0cd60c159",
+    "model_hash": "49be8c7cffb04d47861bf782d37d0a7582398ce68a5f8f95eb52ed1cc162d4bf"
   }
 ]
