@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "openlm-research/open_llama_3b",
+        "TinyLlama/TinyLlama_v1.1",
         "MLP-KTLim/llama-3-Korean-Bllossom-8B"
       ]
     },
