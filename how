@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
         "deepseek-ai/deepseek-coder-6.7b-instruct",
