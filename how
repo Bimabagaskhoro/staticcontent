@@ -5,8 +5,8 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "deepseek-ai/deepseek-coder-6.7b-instruct",
-        "unsloth/Meta-Llama-3.1-8B"
+        "unsloth/llama-3-8b-Instruct",
+        "oopsung/llama2-7b-n-ox-test-v1"
       ]
     }
   ]
