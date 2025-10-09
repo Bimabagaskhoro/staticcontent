@@ -2,12 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/llama-3-8b-Instruct",
-        "oopsung/llama2-7b-n-ox-test-v1",
-        "elyza/Llama-3-ELYZA-JP-8B"
+        "unsloth/tinyllama-chat"
       ]
     }
   ]
