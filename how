@@ -2,8 +2,8 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
-      "all": true,
+      "isAccepted": true,
+      "all": false,
       "acc_task" : [
         "DeepMount00/Llama-3-8b-Ita"
       ]
