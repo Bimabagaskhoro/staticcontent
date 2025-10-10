@@ -5,7 +5,7 @@
       "isAccepted": false,
       "all": true,
       "acc_task" : [
-        "unsloth/codegemma-7b-it","unsloth/llama-3-8b-Instruct"
+        "DeepMount00/Llama-3-8b-Ita"
       ]
     }
   ]
