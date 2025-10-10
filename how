@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "lmsys/vicuna-7b-v1.5"
+        "unsloth/Meta-Llama-3.1-8B","unsloth/llama-3-8b-Instruct"
       ]
     }
   ]
