@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
-      "all": true,
+      "isAccepted": true,
+      "all": false,
       "acc_task" : [
-        "unsloth/Meta-Llama-3.1-8B-Instruct"
+        "EleutherAI/pythia-410m-deduped"
       ]
     }
   ]
