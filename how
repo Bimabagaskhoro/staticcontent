@@ -3,9 +3,9 @@
     {
       "id": "miner1",
       "isAccepted": true,
-      "all": true,
+      "all": false,
       "acc_task" : [
-        "Qwen/Qwen1.5-7B"
+        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct", "unsloth/Qwen2.5-14B"
       ]
     }
   ]
