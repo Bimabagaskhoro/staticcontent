@@ -6,8 +6,7 @@
       "all": false,
       "acc_task" : [
         "TinyLlama/TinyLlama-1.1B-Chat-v0.6",
-        "tiiuae/falcon-7b",
-        "johngreen2/8b0a9c19-e435-4757-a7c8-a1492486fd33"
+        "tiiuae/falcon-7b"
       ]
     }
   ]
