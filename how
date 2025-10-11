@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": true,
+      "isAccepted": false,
       "all": false,
       "acc_task" : [
         "johngreen2/8b0a9c19-e435-4757-a7c8-a1492486fd33"
