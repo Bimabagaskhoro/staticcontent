@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "aisingapore/llama3-8b-cpt-sea-lionv2.1-instruct", "unsloth/Qwen2.5-14B"
+        "TinyLlama/TinyLlama-1.1B-Chat-v0.6"
       ]
     }
   ]
