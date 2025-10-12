@@ -5,7 +5,9 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Qwen2.5-1.5B","unsloth/Llama-3.2-3B-Instruct"
+        "unsloth/Qwen2.5-1.5B",
+        "unsloth/Llama-3.2-3B-Instruct",
+        "teknium/OpenHermes-2.5-Mistral-7B"
       ]
     }
   ]
