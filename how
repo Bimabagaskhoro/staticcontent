@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Yarn-Llama-2-7b-64k"
+        "jhflow/mistral7b-lora-multi-turn-v2"
       ]
     }
   ]
