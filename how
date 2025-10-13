@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/Hermes-2-Pro-Llama-3-8B","unsloth/Meta-Llama-3.1-8B-Instruct"
+        "NousResearch/Hermes-2-Pro-Llama-3-8B","unsloth/Meta-Llama-3.1-8B-Instruct","NousResearch/Yarn-Solar-10b-64k"
       ]
     }
   ]
