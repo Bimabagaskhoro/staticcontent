@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "miner1",
-      "isAccepted": false,
+      "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "NousResearch/CodeLlama-7b-hf-flash"
+        "unsloth/Meta-Llama-3.1-8B"
       ]
     }
   ]
