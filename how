@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "unsloth/Hermes-3-Llama-3.1-8B"
+        "princeton-nlp/gemma-2-9b-it-SimPO"
       ]
     }
   ]
