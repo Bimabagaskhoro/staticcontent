@@ -5,7 +5,7 @@
       "isAccepted": true,
       "all": false,
       "acc_task" : [
-        "Vikhrmodels/Vikhr-7B-instruct_0.4"
+        "unsloth/Hermes-3-Llama-3.1-8B"
       ]
     }
   ]
